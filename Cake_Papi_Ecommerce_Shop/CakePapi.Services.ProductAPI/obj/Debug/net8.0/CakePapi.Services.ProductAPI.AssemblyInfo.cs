@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CakePapi.Services.ProductAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7382b2bccae4454cb457000b5a65e685c047dafd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a53f6ec271cb21d0f4f09ac2174639cbcfd303")]
 [assembly: System.Reflection.AssemblyProductAttribute("CakePapi.Services.ProductAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CakePapi.Services.ProductAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
