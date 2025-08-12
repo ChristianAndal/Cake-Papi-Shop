@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace CakePapi.Services.ProductAPI.Repository
 {
-    public interface iProductRepository
+    public interface IProductRepository
     {
         Task<IEnumerable<ProductDto>> GetProducts();
         Task<ProductDto> GetProductById(int productId);
