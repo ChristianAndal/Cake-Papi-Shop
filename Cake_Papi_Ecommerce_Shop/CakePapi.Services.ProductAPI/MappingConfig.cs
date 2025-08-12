@@ -5,7 +5,7 @@ namespace CakePapi.Services.ProductAPI
 {
     public class MappingConfig
     {
-        public MapperConfiguration RegisterMaps()
+        public static MapperConfiguration RegisterMaps()
         {
             var mappingConfig = new MapperConfiguration(config =>
             {

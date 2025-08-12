@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj": {}
+    "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop-ProductAPI\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj": {
+    "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop-ProductAPI\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop-ProductAPI\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj",
         "projectName": "CakePapi.Shop.Web",
-        "projectPath": "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj",
+        "projectPath": "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop-ProductAPI\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\CakePapi.Shop.Web.csproj",
         "packagesPath": "C:\\Users\\Mr.Quwekquwek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\obj\\",
+        "outputPath": "C:\\Users\\Mr.Quwekquwek\\Documents\\GitHub\\Cake-Papi-Shop-ProductAPI\\Cake_Papi_Ecommerce_Shop\\CakePapi.Shop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
